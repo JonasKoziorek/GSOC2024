@@ -38,3 +38,18 @@ In this document I will be writing down what I worked on during the specific day
 
 ## Work hours
 5.75
+
+# 8.6.2024 
+
+## Today's activity
+* Tracking the bug from yesterday
+    
+    * The `RBTree` implementation sometimes had duplicates. I could not figure out why. The equality `==` would simply fail in some cases. For some reason porting `RBTree` to vector and then back to `RBTree` would sometimes fix the issue but that was unclean. I tried to implement the datastructure as a `Set` while still using `VectorWithEpsRadius` however there was some problem with the fact that `==` of a custom type has to be equivalent to `hash` of a custom type and I could not get it to work. If it worked, insertion and search in hashed set would take `O(1)`. I tried to implement my own binary search tree and also to use `Set` with linear search for duplicated. After benchmarking `Set` with linear search seemed like a best option. It won both in runtime and allocation count.
+
+
+## Unfinished Tasks
+1. Write a post to Julia discourse about my GSOC.
+2. Start reading and implementing the CD algorithm.
+
+## Work hours
+8.25
