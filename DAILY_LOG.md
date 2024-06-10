@@ -53,3 +53,22 @@ In this document I will be writing down what I worked on during the specific day
 
 ## Work hours
 8.25
+
+
+# 10.6.2024 
+
+## Today's activity
+* playing with bifurcation diagrams, implementing a bifurcation diagram that displays bifurcation curves of UPOs of a logistic map
+* writing post to discourse about my GSOC
+* reading Seydel
+
+    * implicit function theorem
+    * saddle node bifurcation
+
+
+## Unfinished Tasks
+1. Write a post to Julia discourse about my GSOC.
+2. Start reading and implementing the CD algorithm.
+
+## Work hours
+6.0
