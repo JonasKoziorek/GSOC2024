@@ -72,3 +72,24 @@ In this document I will be writing down what I worked on during the specific day
 
 ## Work hours
 6.0
+
+# 11.6.2024 
+
+## Today's activity
+* reading seydel
+
+    * transcritical bifurcation
+    * subcritical and supercritical pitchfork bifurcation
+    * hysteresis, isola centers, multiple bifurcation points
+    * normal forms for bifurcations
+    * Hopf bifurcation
+
+* trying out `BifurcationKit.jl`, trying out to display bif diag of normal forms and also continue periodic orbit that gets formed after Hopf bifurcation
+
+
+## Unfinished Tasks
+1. Write a post to Julia discourse about my GSOC.
+2. Start reading and implementing the CD algorithm.
+
+## Work hours
+6.75
