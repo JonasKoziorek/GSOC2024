@@ -93,3 +93,17 @@ In this document I will be writing down what I worked on during the specific day
 
 ## Work hours
 6.75
+
+# 12.6.2024 
+
+## Today's activity
+* reading the CD and Saiki papers
+* meeting with George and Romain
+
+
+## Unfinished Tasks
+1. Write a post to Julia discourse about my GSOC.
+2. Start reading and implementing the CD algorithm.
+
+## Work hours
+3.5
