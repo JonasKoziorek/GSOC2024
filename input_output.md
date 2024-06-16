@@ -16,6 +16,13 @@ ds, period, seeds, (maxiter, disttol, inftol, roundtol, abstol)
 ## Output
 Dataset( vector of PO )
 
+# Schmelcher-Diakonos (Continuous)
+## Input
+Poincare surface of section, initial conditions, parameter delta, parameters for SD algorithm, parameters for Newton algorithm. 
+
+## Output
+Periodic orbits with certain number of intersections of the hyperplane and their periods.
+
 # Davidchack-Lai (Discrete)
 
 ## Input

@@ -67,8 +67,7 @@ In this document I will be writing down what I worked on during the specific day
 
 
 ## Unfinished Tasks
-1. Write a post to Julia discourse about my GSOC.
-2. Start reading and implementing the CD algorithm.
+1. Start reading and implementing the CD algorithm.
 
 ## Work hours
 6.0
@@ -88,8 +87,7 @@ In this document I will be writing down what I worked on during the specific day
 
 
 ## Unfinished Tasks
-1. Write a post to Julia discourse about my GSOC.
-2. Start reading and implementing the CD algorithm.
+1. Start reading and implementing the CD algorithm.
 
 ## Work hours
 6.75
@@ -100,10 +98,15 @@ In this document I will be writing down what I worked on during the specific day
 * reading the CD and Saiki papers
 * meeting with George and Romain
 
-
-## Unfinished Tasks
-1. Write a post to Julia discourse about my GSOC.
-2. Start reading and implementing the CD algorithm.
-
 ## Work hours
 3.5
+
+# 16.6.2024
+
+## Today's activity
+* Reading about PSOS
+* Reading the paper about continuous time Schmelcher-Diakonos
+* Trying to detect UPOs of Lorenz system via Schmelcher-Diakonos and PSOS - unsuccessful
+
+## Work hours
+4.25
