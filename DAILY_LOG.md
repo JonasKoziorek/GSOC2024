@@ -118,3 +118,13 @@ In this document I will be writing down what I worked on during the specific day
 
 ## Work hours
 3.00
+
+# 18.6.2024
+
+## Today's activity
+* Finishing the common interface
+* Reading papers, writing overview reports on them
+* collecting inputs and outputs for the table
+
+## Work hours
+8.00
