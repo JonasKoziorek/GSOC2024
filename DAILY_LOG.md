@@ -128,3 +128,12 @@ In this document I will be writing down what I worked on during the specific day
 
 ## Work hours
 8.00
+
+# 19.6.2024
+
+## Today's activity
+* meeting
+* reviewing my notes before the meeting
+
+## Work hours
+2.25
