@@ -10,10 +10,10 @@ StateSpaceSet of POs
 
 = Schmelcher-Diakonos (Continuous)
 == Input
-Poincare surface of section, initial conditions, parameter delta, parameters for SD algorithm, parameters for Newton algorithm. 
+ds \~ Poincare surface of section, Vector{InitialGuess}, $lambda$, parameters for SD algorithm, parameters for Newton algorithm. 
 
 == Output
-Periodic orbits with certain number of intersections of the hyperplane and their periods.
+`PeriodicOrbit` \~ Periodic orbits with certain number of intersections of the hyperplane and their periods.
 
 
 
@@ -24,7 +24,7 @@ Periodic orbits with certain number of intersections of the hyperplane and their
 ds, period, seeds, maximal period to use seeds with, (beta, maxiters, disttol, abstol)
 
 == Output
-vector of n vectors containing PO, each vector corresponds to one one period 1..n
+Vector{PeriodicOrbit} \~ vector of n vectors containing PO, each vector corresponds to one period 1..n
 
 
 
@@ -35,7 +35,7 @@ vector of n vectors containing PO, each vector corresponds to one one period 1..
 ds, seeds, (beta, maxiter, disttol, abstol)
 
 == Output
-vector of n vectors containing PO, each vector corresponds to one one period 1..n
+Vector{PeriodicOrbit} \~ vector of n vectors containing PO, each vector corresponds to one period 1..n
 
 
 
