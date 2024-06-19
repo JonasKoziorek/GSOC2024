@@ -20,6 +20,8 @@ end
 import Base.∈
 function ∈(u0::PeriodicPoint, POs::PeriodicOrbit)
     # custom search
+    # (discrete) - linear search through the set
+    # (continuous) - distinguish identical periodic orbits
 end
 
 
@@ -27,6 +29,7 @@ function stable(ds, po::PeriodicPoint; jac=autodiff_jac(ds))
 end
 
 function complete_orbit(ds, po::PeriodicPoint)
+    # compute trajectory for period po.T
     result :: PeriodicOrbit
     return result
 end
