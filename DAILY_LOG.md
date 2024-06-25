@@ -137,3 +137,27 @@ In this document I will be writing down what I worked on during the specific day
 
 ## Work hours
 2.25
+
+# 23.6.2024
+
+## Today's activity
+* Coding Saiki algorith (not working yet)
+
+## Work hours
+3.00
+
+# 24.6.2024
+
+## Today's activity
+* Implementing the common interface format for Saiki (WIP)
+
+## Work hours
+2.00
+
+# 25.6.2024
+
+## Today's activity
+* Implementing common interface for Davidchacklai and SchmelcherDiakonos
+
+## Work hours
+4.50
