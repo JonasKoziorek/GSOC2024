@@ -161,3 +161,15 @@ In this document I will be writing down what I worked on during the specific day
 
 ## Work hours
 4.50
+
+# 25.6.2024
+
+## Today's activity
+* Meeting
+* Implementing common interface
+* Improving saiki, introducing backward time stepping, tracking where the code is hanging (solver is diverging to infinity)
+* Trying out whether poincare maps work by default with our algorithms
+
+
+## Work hours
+8.50
