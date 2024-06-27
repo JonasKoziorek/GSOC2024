@@ -173,3 +173,12 @@ In this document I will be writing down what I worked on during the specific day
 
 ## Work hours
 8.50
+
+# 25.6.2024
+
+## Today's activity
+* trying to improve Saiki so that the algorithms is not hanging. I still couldn't find any UPO with Saiki, only fixed points.
+
+
+## Work hours
+1.75
