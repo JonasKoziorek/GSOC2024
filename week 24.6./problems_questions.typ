@@ -7,3 +7,10 @@
 - Breaking changes to the previous api?
 
 - Saiki seems like a bad algorithm - I wasn't able to detect any UPO in lorentz system, only FPs.
+
+- Automatic diff of `step!(ds, n)`?
+
+== What is missing
+
+- porting documentation and tests
+- checking performance and allocations
