@@ -182,3 +182,16 @@ In this document I will be writing down what I worked on during the specific day
 
 ## Work hours
 1.75
+
+# 1.7.2024
+
+## Today's activity
+* Adding desired functions to the api.
+* Writing docstrings. 
+* Building simple docs showing the docstrings.
+* Porting Schmelcher-Diakonos to the new api.
+* Testing out new api functions.
+
+
+## Work hours
+7.00
