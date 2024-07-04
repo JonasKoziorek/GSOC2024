@@ -195,3 +195,32 @@ In this document I will be writing down what I worked on during the specific day
 
 ## Work hours
 7.00
+
+# 2.7.2024
+
+## Today's activity
+* Porting Davichack-Lai and Saiki to the new interface
+* Reading paper about another UPO detection algorithm - because Saiki doesn't seem to be promising
+
+
+## Work hours
+3.00
+
+# 3.7.2024
+
+## Today's activity
+* meeting
+* reading about Unrestricted Harmonic Balance
+
+## Work hours
+3.5
+
+
+# 4.7.2024
+
+## Today's activity
+* fixing the api after yesterday's discussion
+* reading about Unrestricted Harmonic Balance
+
+## Work hours
+4.0
