@@ -224,3 +224,11 @@ In this document I will be writing down what I worked on during the specific day
 
 ## Work hours
 4.0
+
+# 7.7.2024
+
+## Today's activity
+* Working on the common interface PR
+
+## Work hours
+3.0
