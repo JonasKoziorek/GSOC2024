@@ -232,3 +232,12 @@ In this document I will be writing down what I worked on during the specific day
 
 ## Work hours
 3.0
+
+# 8.7.2024
+
+## Today's activity
+* Working on the common interface, implementing stability check for discrete systems
+* Reading the Unrestricted Harmonic Balance algorithm paper, decided that it is not worth implementing because it relies too much on user intervention (paper calculations)
+
+## Work hours
+4.75
