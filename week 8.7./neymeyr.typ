@@ -1,0 +1,7 @@
+= Determination of Unstable Limit Cycles in Chaotic Systems by the Method of Unrestricted Harmonic Balance
+
+- I understood the paper completely but concluded that it is not worth to implement. The reason for that is that the user would have to do a lot of expression manipulation on a paper. In other words it's not a very automatic method.
+- The method is based on the fact that periodic solution of an ODE can be represented as a Fourier series. On a computer you can't compute infinitely many fourier series coefficients, hence you can only do fourier series truncated to n harmonics (harmonic is sin or cos). Each state variable of the ODE (x, y, z...) can be represented by such truncated fourier series. Multiplication of two such state variables is again periodic and can be represented by a fourier series. Analytical formula for such multiplication is presented by the authors in another paper. The point of the paper is that you can rewrite all the state variables in a way so that they depend on only one state variable (and some other parameters) so that in the end you only have to solve a system of nonlinear algebraic equations.
+- reference to equation (4) on the bottom left of page 2 references equation (4) on page 1 (and not (4) on page 2, that is some mistake)
+- equation (9) is obtained by solving a system of equations so that z_cj and z_sj only depend on x_cj and x_sj and known parameters.
+- The method requires initial guess for the nonlinear equation solver which means the guess for fourier coefficients and $omega$
