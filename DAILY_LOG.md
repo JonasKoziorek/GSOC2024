@@ -241,3 +241,12 @@ In this document I will be writing down what I worked on during the specific day
 
 ## Work hours
 4.75
+
+# 9.7.2024
+
+## Today's activity
+* Writing tests for the common interface
+* Found two great recent papers on finding POs
+
+## Work hours
+2.75
