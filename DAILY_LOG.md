@@ -250,3 +250,11 @@ In this document I will be writing down what I worked on during the specific day
 
 ## Work hours
 2.75
+
+# 10.7.2024
+
+## Today's activity
+* Implementing Optimized Shooting method
+
+## Work hours
+7.75
