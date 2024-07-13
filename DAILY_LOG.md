@@ -274,3 +274,9 @@ In this document I will be writing down what I worked on during the specific day
 
 ## Work hours
 2.5
+
+## Today's activity
+* making autodiff jacobian generation for arbitrary ds
+
+## Work hours
+1.0
