@@ -266,3 +266,11 @@ In this document I will be writing down what I worked on during the specific day
 
 ## Work hours
 8.25
+
+# 12.7.2024
+
+## Today's activity
+* fixing some issues in the PR
+
+## Work hours
+2.5
