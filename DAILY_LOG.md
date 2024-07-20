@@ -299,3 +299,15 @@ In this document I will be writing down what I worked on during the specific day
 
 ## Work hours
 4.75
+
+# 20.7.2024
+
+## Today's activity
+* separating autodiff jacobian from `tangent_rule`
+* writing pretty printing for `PeriodicOrbit`
+* writing local stability check for continuous systems
+* starting with `minimal_period` code for continuous systems
+
+
+## Work hours
+7.0
