@@ -275,8 +275,27 @@ In this document I will be writing down what I worked on during the specific day
 ## Work hours
 2.5
 
+# 13.7.2024
+
 ## Today's activity
 * making autodiff jacobian generation for arbitrary ds
 
 ## Work hours
 1.0
+
+# 17.7.2024
+
+## Today's activity
+* recap before meeting
+
+## Work hours
+1.5
+
+# 19.7.2024
+
+## Today's activity
+* checking out which solvers work with Optimized Shooting
+* trying to integrate from `0` to `T` instead of from `0` to `1`
+
+## Work hours
+4.75
