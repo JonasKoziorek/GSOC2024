@@ -13,18 +13,14 @@ function roessler_jacob(u, p, t)
 end
 
 function plot_result(res, ds; azimuth = 1.3 * pi, elevation = 0.3 * pi)
-    global index
     traj, t = trajectory(ds, res.T, res.points[1]; Dt = 0.01)
     fig = Figure()
     ax = Axis3(fig[1,1], azimuth = azimuth, elevation=elevation)
     lines!(ax, traj[:, 1], traj[:, 2], traj[:, 3], color = :blue, linewidth=1.7)
     scatter!(ax, res.points[1])
     display(fig)
-    save("./roessler_$(index).png", fig)
-    index +=1
 end
 
-index = 1
 
 #%%
 a = 0.15; b=0.2; c=3.5
