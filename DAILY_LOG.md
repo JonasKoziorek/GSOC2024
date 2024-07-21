@@ -311,3 +311,14 @@ In this document I will be writing down what I worked on during the specific day
 
 ## Work hours
 7.0
+
+# 21.7.2024
+
+## Today's activity
+* finishing PR for separating autodiff jacobian
+* finishing code for `minimal_period` for continuous systems and making a PR
+* trying to fix failing tests in `DynamicalSystemsBase.jl`
+
+
+## Work hours
+7.0
