@@ -322,3 +322,13 @@ In this document I will be writing down what I worked on during the specific day
 
 ## Work hours
 7.0
+
+# 22.7.2024
+
+## Today's activity
+* writing tests for `minimal_period` finishing the PR
+* making a PR for `isstable` for continuous systems
+
+
+## Work hours
+7.5
